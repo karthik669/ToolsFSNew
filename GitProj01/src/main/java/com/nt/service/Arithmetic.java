@@ -6,7 +6,7 @@ public class Arithmetic {
 	  public  	long sum(long x, long y) {
 		  return x+y;
 		   }
-	  
+	  //substraction on 2 numbers
 	  public  	long sub(long x, long y) {
 		  return x-y;
 		   }
