@@ -25,7 +25,7 @@ public class SeasonFinderServlet extends HttpServlet {
 		int month=ld.getMonthValue();
 		//generate the season
 		if(month>=3 && month<=6)
-			pw.println("<h1 style='color:red;text-align:center'>Summer  Season </h1> ");
+			pw.println("<h1 style='color:green;text-align:center'>Summer  Season </h1> ");
 		else if(month>=7 && month<=10)
 			pw.println("<h1 style='color:blue;text-align:center'>Rainy  Season </h1> ");
 		else
