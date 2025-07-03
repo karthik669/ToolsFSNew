@@ -43,7 +43,7 @@
 	</dependencies>
 
 	<build>
-	   <finalName>DockerSBApp1</finalName>
+	   <finalName>DockerSbApp1</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
